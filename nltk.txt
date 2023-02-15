@@ -1,6 +1,2 @@
-wordnet
-<<<<<<< HEAD
-pros_cons
-=======
+
 stopwords
->>>>>>> 3b7e873788881c7e4febe5d83114bdd2b448ce18
