@@ -2,7 +2,7 @@ import pickle
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
-df_percent = pickle.load(open('model.pkl', 'rb'))
+df_percent = pickle.load(open('model_up.pkl', 'rb'))
 
 # TF-IDF Vectorization
 df_percent.set_index('name', inplace=True)
